@@ -1,10 +1,10 @@
 {
   "name": "vscodium-update-api",
-  "author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
+  "author": "colbemllc",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vscodium/update-api"
+    "url": "https://github.com/colbemllc/update-api"
   },
   "dependencies": {
     "got": "^11.8.5"
